@@ -2,7 +2,7 @@
 # Precursor-induced CRF for named entity recognition  
 
 ## reference: 
-Lee, W., & Choi, J. (2019). Precursor-induced conditional random fields: connecting separate entities by induction for improved clinical named entity recognition. BMC Medical Informatics and Decision Making 2019 19:132 (https://doi.org/10.1186/s12911-019-0865-1)  
+Lee, W., & Choi, J. (2019). Precursor-induced conditional random fields: connecting separate entities by induction for improved clinical named entity recognition. BMC Medical Informatics and Decision Making. 2019. 19:132 (https://doi.org/10.1186/s12911-019-0865-1)  
 contact: jinsamdol at snu ac kr  
  
 ## Model-jar file description  
