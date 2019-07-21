@@ -69,5 +69,5 @@ java -jar pre-induced_crf_opaque_tester_dev.jar "YOUR_TESTING_DATA_ABSOLUTE_PATH
  the prefixes t1:... and t-1:... are used for distinguishing features each other. You may freely use arbitrary features, and you may freely use arbitrary prefixes for features, as well as, you may not use prefixes. However, I prefer to use prefixes in order to make distinction between different features because the CRF uses features in the form of a bag-of-features.   
    
   
-reference: Lee, W., & Choi, J. (2018). Connecting Distant Entities with Induction through Conditional Random Fields for Named Entity Recognition: Precursor-Induced CRF. arXiv preprint arXiv:1805.10414. (https://arxiv.org/abs/1805.10414)  
+reference: Lee, W., & Choi, J. (2019). Precursor-induced conditional random fields: connecting separate entities by induction for improved clinical named entity recognition. BMC Medical Informatics and Decision Making 2019 19:132 (https://doi.org/10.1186/s12911-019-0865-1)  
 contact: jinsamdol at snu ac kr
